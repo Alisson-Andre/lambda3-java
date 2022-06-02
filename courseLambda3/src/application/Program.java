@@ -9,7 +9,7 @@ public class Program {
 
 	public static void main(String[] args) {
 
-List<Product> list = new ArrayList<>();
+		List<Product> list = new ArrayList<>();
 		
 		list.add(new Product("Tv", 900.00));
 		list.add(new Product("Mouse", 50.00));
