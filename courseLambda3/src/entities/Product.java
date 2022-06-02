@@ -30,7 +30,7 @@ public class Product {
 		p.setPrice(p.getPrice() * 1.1);
 	}
 	
-	public void nonStatcPriceUpdate() {
+	public void nonStaticPriceUpdate() {
 		price *= 1.1;
 	}
 	
